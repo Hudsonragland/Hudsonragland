@@ -3,8 +3,8 @@
 <h2>👨‍💻 About Me:</h2>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> LIST HERE </b>
-  - [DESCRIPTION HERE](https://URL HERE)
+- <!-- <b> LIST HERE </b> -->
+    - <!-- [DESCRIPTION HERE](https://URL HERE)-->
 -
 -
 -
