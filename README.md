@@ -1,4 +1,4 @@
-<h1>Hi, My name is Hudson Ragland! <br/><a href="https://github.com/Hudsonragland">Information Systems</a>, <a href="https://www.linkedin.com/in/hudsonragland03/">Cybersecurity Professional</a>
+<h1>Hi, My name is Hudson Ragland! <br/><a href="https://github.com/Hudsonragland">Information Systems Specialist</a>, <a href="https://www.linkedin.com/in/hudsonragland03/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 About Me:</h2>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
